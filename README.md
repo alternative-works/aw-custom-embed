@@ -1,5 +1,10 @@
 # wp-plugin-template
- WordPressプラグイン開発用雛形
+Embedをカスタマイズするプラグイン
+
+# 対応Embed
+- CodePen
+- Chrome Web Store
+
 
 開発時には`gh-auto-updater`のインストールを忘れない
 

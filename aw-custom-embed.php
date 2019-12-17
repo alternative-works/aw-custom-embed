@@ -4,7 +4,7 @@ Plugin Name: AW Custom Embed
 Plugin URI: https://careru.jp/
 Description: Embedをカスタマイズしたもの
 Author: Alternative Works
-Version: 0.0.2
+Version: 0.0.3
 Author URI: https://careru.jp/
 */
 if ( ! defined( 'ABSPATH' ) ) {
